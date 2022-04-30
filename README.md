@@ -1,0 +1,3 @@
+```shell
+sh ./build.sh
+```
